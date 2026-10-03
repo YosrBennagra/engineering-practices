@@ -1,0 +1,11 @@
+replicaCount: 3
+image:
+  repository: registry.example/demo-api
+  digest: sha256:REPLACE_WITH_REAL_DIGEST
+
+resources:
+  requests:
+    cpu: 250m
+    memory: 256Mi
+  limits:
+    memory: 512Mi
