@@ -108,4 +108,4 @@ Agree a versioned contract/examples early, use mocks only as a temporary coordin
 - [Iterative delivery](03-iterative-delivery.md)
 - [Engineering effectiveness](18-engineering-effectiveness.md)
 - [testing-engineering](https://github.com/YosrBennagra/testing-engineering)
-- [devops-platform-engineering](https://github.com/YosrBennagra/devops-platform-engineering)
+- [devops-platform-engineering](https://github.com/YosrBennagra/devops-platform-engineering-)
