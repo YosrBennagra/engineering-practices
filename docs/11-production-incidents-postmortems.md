@@ -126,4 +126,4 @@ If a downstream system fails, investigate whether graceful degradation/circuit b
 - [Rollout and rollback](09-rollout-rollback.md)
 - [Technical communication](13-technical-communication-feedback.md)
 - [observability-reliability](https://github.com/YosrBennagra/observability-reliability)
-- [devops-platform-engineering](https://github.com/YosrBennagra/devops-platform-engineering)
+- [devops-platform-engineering](https://github.com/YosrBennagra/devops-platform-engineering-)
