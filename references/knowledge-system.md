@@ -14,7 +14,7 @@ This repository deliberately covers **professional engineering practice**, not d
 | [software-architecture](https://github.com/YosrBennagra/software-architecture) | Architectural styles, boundaries, quality attributes |
 | [system-design](https://github.com/YosrBennagra/system-design) | Scale/distributed design |
 | [testing-engineering](https://github.com/YosrBennagra/testing-engineering) | Testing strategy and techniques |
-| [devops-platform-engineering](https://github.com/YosrBennagra/devops-platform-engineering) | CI/CD, containers, Kubernetes, platform engineering |
+| [devops-platform-engineering](https://github.com/YosrBennagra/devops-platform-engineering-) | CI/CD, containers, Kubernetes, platform engineering |
 | [application-security](https://github.com/YosrBennagra/application-security) | Secure design, vulnerabilities and security controls |
 | [observability-reliability](https://github.com/YosrBennagra/observability-reliability) | Telemetry, SLOs, incidents, reliability techniques |
 | [engineering-toolbox](https://github.com/YosrBennagra/engineering-toolbox) | Practical reusable tools/scripts/workflows |
