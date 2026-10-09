@@ -116,5 +116,5 @@ Route one capability through an adapter to the new service, compare outcomes, mi
 - [Rollout and rollback](09-rollout-rollback.md)
 - [Production incidents](11-production-incidents-postmortems.md)
 - [testing-engineering](https://github.com/YosrBennagra/testing-engineering)
-- [devops-platform-engineering](https://github.com/YosrBennagra/devops-platform-engineering-)
+- [devops-platform-engineering](https://github.com/YosrBennagra/devops-platform-engineering)
 - [observability-reliability](https://github.com/YosrBennagra/observability-reliability)

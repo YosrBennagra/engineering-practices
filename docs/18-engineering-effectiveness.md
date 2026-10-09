@@ -109,5 +109,5 @@ If deployments are rare because rollback is unclear and tests are flaky, focus o
 - [Agile and cross-functional flow](12-agile-cross-functional.md)
 - [Ownership](15-ownership-maintainability.md)
 - [Senior/staff judgment](16-senior-staff-judgment.md)
-- [devops-platform-engineering](https://github.com/YosrBennagra/devops-platform-engineering-)
+- [devops-platform-engineering](https://github.com/YosrBennagra/devops-platform-engineering)
 - [observability-reliability](https://github.com/YosrBennagra/observability-reliability)

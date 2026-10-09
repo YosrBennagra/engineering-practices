@@ -72,7 +72,7 @@ This repository is the professional-practices layer of the wider [software-engin
 - [software-architecture](https://github.com/YosrBennagra/software-architecture) — architecture depth.
 - [system-design](https://github.com/YosrBennagra/system-design) — distributed/system design.
 - [testing-engineering](https://github.com/YosrBennagra/testing-engineering) — test strategy and techniques.
-- [devops-platform-engineering](https://github.com/YosrBennagra/devops-platform-engineering-) — delivery/platform/Kubernetes depth.
+- [devops-platform-engineering](https://github.com/YosrBennagra/devops-platform-engineering) — delivery/platform/Kubernetes depth.
 - [application-security](https://github.com/YosrBennagra/application-security) — security engineering.
 - [observability-reliability](https://github.com/YosrBennagra/observability-reliability) — observability, SLOs and reliability engineering.
 - [engineering-toolbox](https://github.com/YosrBennagra/engineering-toolbox) — reusable technical utilities and workflows.

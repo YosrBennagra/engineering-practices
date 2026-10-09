@@ -91,4 +91,4 @@ Ship component-by-component behind routing or capability boundaries instead of m
 - [Planning and risk](02-planning-estimation-risk.md)
 - [PRs and integration](04-code-review-prs-integration.md)
 - [Rollout and rollback](09-rollout-rollback.md)
-- [devops-platform-engineering](https://github.com/YosrBennagra/devops-platform-engineering-)
+- [devops-platform-engineering](https://github.com/YosrBennagra/devops-platform-engineering)

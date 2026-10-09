@@ -98,5 +98,5 @@ Release server compatibility first. Wait until sufficient clients support the ne
 
 - [Legacy migrations](08-legacy-migrations-compatibility.md)
 - [Production ownership](11-production-incidents-postmortems.md)
-- [devops-platform-engineering](https://github.com/YosrBennagra/devops-platform-engineering-)
+- [devops-platform-engineering](https://github.com/YosrBennagra/devops-platform-engineering)
 - [observability-reliability](https://github.com/YosrBennagra/observability-reliability)
