@@ -1,5 +1,7 @@
 # Engineering Practices
 
+> **Cheat sheet:** [CHEAT-SHEET.md](CHEAT-SHEET.md) (dense one-to-two-page revision sheet to print and keep on the wall)
+
 Practical professional engineering from **fundamental delivery habits → senior/staff engineering judgment**.
 
 This repository is the professional-practices layer of the wider [software-engineer-roadmap](https://github.com/YosrBennagra/software-engineer-roadmap). It focuses on **how strong engineers plan, change, review, communicate, operate and improve software work**. Deep language, architecture, testing, security, platform, observability and system-design material belongs in the dedicated repositories linked below.
